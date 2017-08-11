@@ -1,5 +1,4 @@
 # Ikea STOLMEN
----
 ### NOTICE
 *As of 1.8.2016 - August 1st, 2016 - STOLMEN is now ELVARLI.*
 ### WHY?
@@ -8,7 +7,6 @@ I wanted to reuse some pole mounts from my stolmen on another stolmen setup in o
 Please contrinute ideas and feedback!
 
 ## Hooks
----
 ### IMPORTANT
 - Use at your own risk. Do not add too much weight.
 - The hooks have not yet been tested with weight.
